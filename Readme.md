@@ -12,7 +12,9 @@ CONFIGURATION
 
 The assets folder contains 
 -Image data
+
 The css folder contains 
 -Style file
+
 The src folder contains 
 -index file
